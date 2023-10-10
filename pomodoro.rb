@@ -1,8 +1,8 @@
 class Pomodoro < Formula
   desc "A CLI pomodoro timer"
   homepage "https://github.com/ayushrawat10/pomodoro-timer-cli"
-  url "https://github.com/ayushrawat10/pomodoro-timer-cli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "9562fadfd48c46d381854526d52cae2a41bb543d3f0ccf03eb5807545ca674f6"
+  url "https://github.com/ayushrawat10/pomodoro-timer-cli/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "dab07ee5368fba9045d3758414b393ce104673ba45d3615efcc35683fcad4ced"
 
   def install
     system "make"
